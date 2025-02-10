@@ -1,2 +1,2 @@
 # belajar-squash
-perubahan readme 1
+perubahan readme 2
